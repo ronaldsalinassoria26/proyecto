@@ -1,0 +1,18 @@
+{
+    "name": "pc/refactoring",
+    "description": "Refactorizacion guiada",
+    "type": "proyecto",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pc\\Refactoring\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ronaldsalinassoria26",
+            "email": "ronaldsalinassoria26@gmail.com"
+        }
+    ],
+    "require": {}
+}
